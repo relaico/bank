@@ -1,12 +1,8 @@
 # Predicting Customer Response to Telemarketing Campaigns
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepositoryName.svg)](https://github.com/YourUsername/YourRepositoryName/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepositoryName.svg)](https://github.com/YourUsername/YourRepositoryName/network)
-[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepositoryName.svg)](https://github.com/YourUsername/YourRepositoryName/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/relaico/bank.svg)](LICENSE)
 
-<p align="center">
-  <img src="telemarketing.jpg" alt="Telemarketing Campaigns" width="500" />
-</p>
+
 
 Welcome to the fascinating world of Predictive Analytics for Telemarketing! This repository is your gateway to unlocking the power of data-driven decisions in the realm of customer response prediction. Here, we've harnessed the potential of various machine learning and regression models to help you understand and enhance your telemarketing campaigns.
 
@@ -73,10 +69,9 @@ These models assist in forecasting numerical outcomes, providing you with valuab
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies specified in the `requirements.txt` file.
-3. Explore the Jupyter notebooks provided in the respective folders for classification and regression.
-4. Customize the code and models to suit your specific telemarketing campaign dataset.
-5. Visualize results, tweak parameters, and optimize your campaigns for better customer response.
+2. Explore the Jupyter notebooks provided in the respective folders for classification and regression.
+3. Customize the code and models to suit your specific telemarketing campaign dataset.
+4. Visualize results, tweak parameters, and optimize your campaigns for better customer response.
 
 ## Contributing
 
